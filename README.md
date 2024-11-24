@@ -2,7 +2,8 @@
 1. Install requirements
    - pygame
    - neat-python
-If it doesn't run properly install the specific versions using
+
+If it doesn't run properly install the specific versions using:
 ```python
 pip install -r requirements.txt
 ```

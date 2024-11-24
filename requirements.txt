@@ -1,0 +1,3 @@
+# Install newer versions if you want just use these if it won't run
+neat_python==0.92
+pygame==2.6.1

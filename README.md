@@ -1,4 +1,4 @@
-# FlappyBird AI (Made with [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies))
+# FlappyBird AI (Made with [NEAT](https://neat-python.readthedocs.io/en/latest/))
 1. Install requirements
    - pygame
    - neat-python
@@ -18,3 +18,5 @@ python3 run_genome.py
 ```python
 python3 main.py
 ```
+
+[NEAT on Wikipedia](https://en.wikipedia.org/wiki/NeuroEvolution_of_Augmenting_Topologies)
